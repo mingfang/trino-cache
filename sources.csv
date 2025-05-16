@@ -1,0 +1,2 @@
+catalog,schema,table_name,where
+postgres,public,cars,year < 1975
