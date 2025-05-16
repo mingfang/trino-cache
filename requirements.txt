@@ -1,0 +1,8 @@
+marimo[sq]
+sqlalchemy
+psycopg2-binary
+pandas
+datacompy
+sqlglot
+trino
+tabulate
